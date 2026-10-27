@@ -1,0 +1,17 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# output, logs, screenshots
+out/
+screenshots/
+*.log
+*.png
+*.jpg
+*.bmp
+_ac_capture.ps1
